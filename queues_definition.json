@@ -1,0 +1,20 @@
+{
+  "QUEUES_DEFINITION": [
+    {
+      "CALL_BY": "TEST_1",
+      "QUEUE_MANAGER": "QUEUE_MANAGER",
+      "QUEUE_NAME": "QUEUE_NAME",
+      "CHANNEL": "CHANNEL",
+      "HOST": "127.0.0.1",
+      "PORT": 1414
+    },
+    {
+      "CALL_BY": "TEST_2",
+      "QUEUE_MANAGER": "QUEUE_MANAGER",
+      "QUEUE_NAME": "QUEUE_NAME",
+      "CHANNEL": "CHANNEL",
+      "HOST": "127.0.0.1",
+      "PORT": 1414
+    }
+  ]
+}
